@@ -10,6 +10,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/Arushi-6278/DSA/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
