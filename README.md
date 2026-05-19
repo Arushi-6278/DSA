@@ -12,6 +12,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Arushi-6278/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/Arushi-6278/DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
@@ -59,6 +62,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
