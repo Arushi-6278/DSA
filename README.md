@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Arushi-6278/DSA/tree/master/3660-jump-game-ix) |
 ## Simulation
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,9 +91,14 @@
 ## String
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arushi-6278/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arushi-6278/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
