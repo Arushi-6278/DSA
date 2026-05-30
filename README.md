@@ -22,6 +22,7 @@
 | [2784-check-if-array-is-good](https://github.com/Arushi-6278/DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arushi-6278/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Arushi-6278/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
 | [3660-jump-game-ix](https://github.com/Arushi-6278/DSA/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,4 +110,12 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
