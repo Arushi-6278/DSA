@@ -32,6 +32,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arushi-6278/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Arushi-6278/DSA/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Arushi-6278/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Arushi-6278/DSA/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Arushi-6278/DSA/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Arushi-6278/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Arushi-6278/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Arushi-6278/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Arushi-6278/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
