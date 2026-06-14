@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/Arushi-6278/DSA/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arushi-6278/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arushi-6278/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arushi-6278/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -174,4 +175,12 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Arushi-6278/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arushi-6278/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arushi-6278/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
