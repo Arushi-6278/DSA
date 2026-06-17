@@ -62,6 +62,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Arushi-6278/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Arushi-6278/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Arushi-6278/DSA/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -135,6 +136,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Arushi-6278/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Arushi-6278/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Arushi-6278/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Arushi-6278/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Arushi-6278/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
