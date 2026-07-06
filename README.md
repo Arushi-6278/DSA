@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Arushi-6278/DSA/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arushi-6278/DSA/tree/master/1833-maximum-ice-cream-bars) |
