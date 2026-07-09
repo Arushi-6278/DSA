@@ -31,6 +31,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arushi-6278/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Arushi-6278/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Arushi-6278/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Arushi-6278/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arushi-6278/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arushi-6278/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -108,6 +109,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arushi-6278/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Arushi-6278/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Arushi-6278/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Arushi-6278/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arushi-6278/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arushi-6278/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -129,6 +131,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/Arushi-6278/DSA/tree/master/3161-block-placement-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Arushi-6278/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arushi-6278/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arushi-6278/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
@@ -234,4 +237,12 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arushi-6278/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arushi-6278/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Arushi-6278/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Arushi-6278/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
