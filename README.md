@@ -9,6 +9,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Arushi-6278/DSA/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arushi-6278/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Arushi-6278/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arushi-6278/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
