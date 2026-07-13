@@ -209,6 +209,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Arushi-6278/DSA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arushi-6278/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
