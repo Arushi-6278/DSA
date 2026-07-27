@@ -14,6 +14,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Arushi-6278/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Arushi-6278/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -110,6 +111,7 @@
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arushi-6278/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arushi-6278/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Arushi-6278/DSA/tree/master/1840-maximum-building-height) |
@@ -263,6 +265,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Arushi-6278/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
