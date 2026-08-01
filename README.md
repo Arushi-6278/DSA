@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arushi-6278/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-6278/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Arushi-6278/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -238,6 +240,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-6278/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Arushi-6278/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Arushi-6278/DSA/tree/master/1840-maximum-building-height) |
@@ -337,4 +340,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arushi-6278/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
