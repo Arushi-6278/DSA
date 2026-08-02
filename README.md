@@ -9,6 +9,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arushi-6278/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-6278/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Arushi-6278/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Arushi-6278/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Arushi-6278/DSA/tree/master/1306-jump-game-iii) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arushi-6278/DSA/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-6278/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Arushi-6278/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Arushi-6278/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Arushi-6278/DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arushi-6278/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -348,4 +351,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arushi-6278/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arushi-6278/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
