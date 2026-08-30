@@ -31,6 +31,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arushi-6278/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Arushi-6278/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arushi-6278/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Arushi-6278/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arushi-6278/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arushi-6278/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -128,6 +129,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Arushi-6278/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Arushi-6278/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arushi-6278/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arushi-6278/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Arushi-6278/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arushi-6278/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arushi-6278/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
