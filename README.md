@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arushi-6278/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Arushi-6278/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Arushi-6278/DSA/tree/master/1340-jump-game-v) |
@@ -196,6 +197,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Arushi-6278/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Arushi-6278/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
@@ -274,6 +276,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Arushi-6278/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Arushi-6278/DSA/tree/master/1345-jump-game-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arushi-6278/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -297,6 +300,7 @@
 | [0115-distinct-subsequences](https://github.com/Arushi-6278/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Arushi-6278/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arushi-6278/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Arushi-6278/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arushi-6278/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
@@ -434,6 +438,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arushi-6278/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arushi-6278/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -510,6 +515,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arushi-6278/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arushi-6278/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
