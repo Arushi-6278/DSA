@@ -40,6 +40,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arushi-6278/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arushi-6278/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Arushi-6278/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arushi-6278/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2540-minimum-common-value](https://github.com/Arushi-6278/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arushi-6278/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Arushi-6278/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -105,6 +106,7 @@
 | [1260-shift-2d-grid](https://github.com/Arushi-6278/DSA/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Arushi-6278/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Arushi-6278/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arushi-6278/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arushi-6278/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arushi-6278/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Arushi-6278/DSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Arushi-6278/DSA/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arushi-6278/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arushi-6278/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Arushi-6278/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arushi-6278/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -561,4 +564,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arushi-6278/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arushi-6278/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arushi-6278/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
